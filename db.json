@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "user_1",
+      "firstName": "John Todd",
+      "age": 35,
+      "companyId": "comp_1"
+    },
+    {
+      "id": "user_2",
+      "firstName": "Gon Lodd",
+      "age": 25,
+      "companyId": "comp_1"
+    },
+    {
+      "id": "user_3",
+      "firstName": "Foggd Modd",
+      "age": 55,
+      "companyId": "comp_2"
+    },
+    {
+      "id": "user_4",
+      "firstName": "Fleen Mlien",
+      "age": 35,
+      "companyId": "comp_3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "comp_1",
+      "name": "General Electric",
+      "description": "light"
+    },
+    {
+      "id": "comp_2",
+      "name": "Ford",
+      "description": "car"
+    },
+    {
+      "id": "comp_3",
+      "name": "Boeing",
+      "description": "plane"
+    }
+  ]
+}
