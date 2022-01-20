@@ -27,12 +27,39 @@
       "age": 35,
       "companyId": "comp_3",
       "positionId": "pos_3"
+    },
+    {
+      "age": 34,
+      "firstName": "Deark Mjix",
+      "id": "oCTlbEa"
+    },
+    {
+      "age": 29,
+      "firstName": "Derek Juanny",
+      "id": "VKOgvsH"
+    },
+    {
+      "age": 29,
+      "firstName": "Derek Juanny",
+      "id": "sH384ZM"
+    },
+    {
+      "age": 29,
+      "firstName": "Gtuip Jny",
+      "id": "u0up62G"
+    },
+    {
+      "age": 24,
+      "firstName": "updated Jhonny",
+      "positionId": "ORm92cj",
+      "companyId": "rYE_tZX",
+      "id": "ydVozfY"
     }
   ],
   "companies": [
     {
       "id": "comp_1",
-      "name": "General_Electric",
+      "name": "General Electric Co.",
       "description": "light"
     },
     {
@@ -44,9 +71,19 @@
       "id": "comp_3",
       "name": "Boeing",
       "description": "plane"
+    },
+    {
+      "name": "Legix",
+      "description": "lasers",
+      "id": "rYE_tZX"
     }
   ],
   "positions": [
+    {
+      "title": "engineer",
+      "salary": 85000,
+      "id": "ORm92cj"
+    },
     {
       "id": "pos_1",
       "title": "CEO",
