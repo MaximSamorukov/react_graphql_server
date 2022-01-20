@@ -4,31 +4,35 @@
       "id": "user_1",
       "firstName": "John Todd",
       "age": 35,
-      "companyId": "comp_1"
+      "companyId": "comp_1",
+      "positionId": "pos_1"
     },
     {
       "id": "user_2",
       "firstName": "Gon Lodd",
       "age": 25,
-      "companyId": "comp_1"
+      "companyId": "comp_1",
+      "positionId": "pos_2"
     },
     {
       "id": "user_3",
       "firstName": "Foggd Modd",
       "age": 55,
-      "companyId": "comp_2"
+      "companyId": "comp_2",
+      "positionId": "pos_3"
     },
     {
       "id": "user_4",
       "firstName": "Fleen Mlien",
       "age": 35,
-      "companyId": "comp_3"
+      "companyId": "comp_3",
+      "positionId": "pos_3"
     }
   ],
   "companies": [
     {
       "id": "comp_1",
-      "name": "General Electric",
+      "name": "General_Electric",
       "description": "light"
     },
     {
@@ -40,6 +44,23 @@
       "id": "comp_3",
       "name": "Boeing",
       "description": "plane"
+    }
+  ],
+  "positions": [
+    {
+      "id": "pos_1",
+      "title": "CEO",
+      "salary": 200000
+    },
+    {
+      "id": "pos_2",
+      "title": "CTO",
+      "salary": 150000
+    },
+    {
+      "id": "pos_3",
+      "title": "lead engineer",
+      "salary": 120000
     }
   ]
 }
